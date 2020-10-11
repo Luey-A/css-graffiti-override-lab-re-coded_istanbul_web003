@@ -6,6 +6,6 @@
 }
 
 #wall .tag-1 {
-  z-index: 300;
+  size: 0px
   display: none;
 }
